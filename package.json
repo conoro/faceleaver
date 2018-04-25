@@ -1,0 +1,22 @@
+{
+  "name": "faceleaver",
+  "version": "1.0.0",
+  "description": "Pull out the details of my Facebook posts, not just the coment text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conor O'Neill",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "fb": "^2.0.0",
+    "fbgraph": "^1.4.1",
+    "method-override": "^2.3.10",
+    "pug": "^2.0.1"
+  }
+}
