@@ -16,7 +16,7 @@
     "express": "^4.16.3",
     "fb": "^2.0.0",
     "fbgraph": "^1.4.1",
-    "method-override": "^2.3.10",
+    "method-override": "^3.0.0",
     "pug": "^2.0.1"
   }
 }
